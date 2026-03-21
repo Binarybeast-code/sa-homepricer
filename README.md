@@ -1,0 +1,1 @@
+This project is SA house price prediction which uses machine learning model called Linear regression to predict the price of a house.  
